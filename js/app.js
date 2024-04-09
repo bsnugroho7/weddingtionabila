@@ -396,9 +396,9 @@ const session = (() => {
                 }
             })
             .catch((err) => {
-                //alert(`Terdapat kesalahan: ${err}`);
-                alert(`Selamat Datang`);
-                //window.location.reload();
+                alert(`Terdapatt kesalahan: ${err}`);
+                //alert(`Selamat Datang`);
+                window.location.reload();
                 return;
             });
     };
