@@ -324,7 +324,7 @@ const pagination = (() => {
         button.disabled = true;
         button.innerHTML = `<span class="spinner-border spinner-border-sm me-1"></span>Loading...`;
         await comment.ucapan();
-        document.getElementById('daftar-ucapan').scrollIntoView({ behavior: 'smooth' });
+        document.getElementById('daftar-ucapan').scrollIntoView MMO({ behavior: 'smooth' });
         button.disabled = false;
         button.innerHTML = tmp;
     };
@@ -396,8 +396,8 @@ const session = (() => {
                 }
             })
             .catch((err) => {
-                alert(`Terdapat kesalahan: ${err}`);
-                window.location.reload();
+                //alert(`Terdapat kesalahan: ${err}`);
+                //window.location.reload();
                 return;
             });
     };
